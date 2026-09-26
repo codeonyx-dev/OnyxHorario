@@ -1,8 +1,8 @@
-# Generador de Horario
+# OnyxHorario
 
 Generador de horarios académicos: logos, tablas, combinar celdas, exportar PNG/PDF y respaldo JSON.
 
-**Demo:** [https://codeonyx-dev.github.io/Generador-de-Horario/](https://codeonyx-dev.github.io/Generador-de-Horario/)
+**Demo:** [https://codeonyx-dev.github.io/OnyxHorario/](https://codeonyx-dev.github.io/OnyxHorario/)
 
 Proyecto de **Codeonyx** (Codeonyx-Dev).
 
