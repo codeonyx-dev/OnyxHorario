@@ -1,8 +1,14 @@
-# Generador de Horarios
+# Generador de Horario
 
-Herramienta web para crear horarios académicos con encabezado personalizable, tablas de docentes y distribución semanal.
+Generador de horarios académicos: logos, tablas, combinar celdas, exportar PNG/PDF y respaldo JSON.
 
-![alt text](image.png)
+**Demo:** [https://codeonyx-dev.github.io/Generador-de-Horario/](https://codeonyx-dev.github.io/Generador-de-Horario/)
+
+Proyecto de **Codeonyx** (Codeonyx-Dev).
+
+**Stack:** React · HTML · CSS · PDF · PNG · academia
+
+![Vista previa del generador de horarios](image.png)
 
 ## Instrucciones
 

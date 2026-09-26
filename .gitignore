@@ -1,0 +1,27 @@
+# Dependencies (optional npm; app runs via file:// + CDN)
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache/
+tmp/
+temp/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
